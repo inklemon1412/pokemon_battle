@@ -1,0 +1,21 @@
+body{
+    font-size: 40px;
+    font-weight: bold;
+    color:darkgreen;
+    border: 2px solid deepskyblue;
+}
+
+    img {
+        width: auto;
+        height: 200px;
+    }
+    .button {
+        background-color: red;
+        color: white;
+        height: 160px;
+        width: 160px;
+        border-radius: 50%;
+        border: 1px solid #000;
+        cursor: pointer;
+        font-size: large;
+    }
